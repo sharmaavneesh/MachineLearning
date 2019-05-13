@@ -1,4 +1,4 @@
-# MachineLearning
+# Fizz Buzz Toy Example for Machine Learning vs Normal Code 
 
 The code is used in my linkedin article : 
 https://www.linkedin.com/pulse/how-different-conventional-programming-machine-learning-sharma/
