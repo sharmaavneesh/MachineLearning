@@ -50,9 +50,6 @@ if the number doesn’t leave any reminder when divisible by 3 and 5 then output
 is  given as  ‘fizzbuzz’, if it  is  divisible by 3  then output is  given ‘fizz’ and  if
 output is not divisible by 5 then the output is given as ‘buzz’.
 
-##### Results
-<< Insert Image >>
-
 ##### Machine Learning Code
 It is solved the problem using Machine Learning technique of neural
 networks. The solution consists of three neural layers – input layer, hidden layer
@@ -61,7 +58,7 @@ many layers and underlying neural nodes depending upon the complexity of the
 problem.
 Here is the visual representation of the solution:
 
-<< Insert Image >>>
+![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NNDemo.png)
 
 Image 2: The Visual representation of the solution 
 
@@ -128,7 +125,9 @@ At a time, whole data is not fed into the system, rather it is fed into the batc
 In the solution 128 data points are there in a batch.
 
 ###### 3 Results
- << Insert Image here >>
+![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NN%20Visual.png)
+
+![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NN%20Results.png)
 
 
 
