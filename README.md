@@ -29,7 +29,8 @@ used in Artificial Intelligence and Deep  learning.  It consists  of neural laye
 which in turn consists of neural nodes.
 A visual representation of neural can be seen as follows:  
 
->> Insert Image
+![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NNDemo.png)
+
 Image 1: Neural Network
 
 #### 1.3 Tensor Flow
@@ -58,9 +59,7 @@ many layers and underlying neural nodes depending upon the complexity of the
 problem.
 Here is the visual representation of the solution:
 
-![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NNDemo.png)
-
-Image 2: The Visual representation of the solution 
+![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NN%20Visual.png)
 
 Some of the key terms are explained below:
 ###### 2.2.1 Training Data
@@ -125,8 +124,6 @@ At a time, whole data is not fed into the system, rather it is fed into the batc
 In the solution 128 data points are there in a batch.
 
 ###### 3 Results
-![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NN%20Visual.png)
-
 ![alt text](https://github.com/sharmaavneesh/MachineLearning/blob/master/NN%20Results.png)
 
 
